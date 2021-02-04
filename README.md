@@ -1,4 +1,4 @@
-Project url https://netflix-clone-26c63.web.app
+Project url https://webtrain.hu/projects/netflix-clone/
 
 # Getting Started with Create React App
 
